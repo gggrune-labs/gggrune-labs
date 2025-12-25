@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Greg Grunewald
 
-I'm an aspiring data professional with a background in healthcare operations, EHR systems, and technical support. With over 4 years of experience improving patient data accuracy and leading process improvements in behavioral health settings, I'm now transitioning into a career focused on **data science and engineering**—with a passion for **NLP**, **predictive modeling**, and **healthcare analytics**.
+I’m a healthcare program manager turned data analyst focused on using clear, reliable data to improve real-world systems. I’ve led teams, improved EHR processes, and built forecasting dashboards with Python. My goal is to support mission-driven organizations through data-informed decision-making**.
 
 ## 🔍 What I'm Working On
 
@@ -12,7 +12,7 @@ I'm an aspiring data professional with a background in healthcare operations, EH
 ## 🎓 Education
 
 **Bachelor of Science in Information Technology**
-Capella University | Data Analytics & Artificial Intelligence (Expected Dec 2025)
+Capella University | Data Analytics & Artificial Intelligence (Expected Mar 2026)
 
 ## 🧠 Skills & Tools
 
@@ -25,9 +25,4 @@ Capella University | Data Analytics & Artificial Intelligence (Expected Dec 2025
 - Break into a **collaborative, growth-focused healthcare data science role**.
 - Contribute to projects that use data for **real-world impact**, especially in underserved communities.
 - Learn continuously and share that journey through GitHub, whether it's notebooks, pipelines, or helpful guides.
-
----
-
-📫 *Let’s connect!*  
-Feel free to follow along or reach out if you're in the world of healthcare data, NLP, or tech-for-good. I'm always up for learning, collaborating, and solving problems together.
 
