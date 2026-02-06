@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Greg Grunewald
 
-I’m a healthcare program manager turned data analyst focused on using clear, reliable data to improve real-world systems. I’ve led teams, improved EHR processes, and built forecasting dashboards with Python. My goal is to support mission-driven organizations through data-informed decision-making**.
+I’m a healthcare program manager turned data analyst focused on using clear, reliable data to improve real-world systems. I’ve led teams, improved EHR processes, and built forecasting dashboards with Python. My goal is to support mission-driven organizations through data-informed decision-making.
 
 ## 🔍 What I'm Working On
 
